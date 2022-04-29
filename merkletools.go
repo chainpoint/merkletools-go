@@ -10,7 +10,7 @@
 * limitations under the License.
  */
 
-package merkletools
+package merkletools_go
 
 import (
 	"bytes"
